@@ -1,0 +1,21 @@
+packages/vial-core/src/engine/llm.ts
+  s_407f7069672e09::t_896b3cc3a6bd84 106,141,194
+packages/core/src/engine/llm.ts
+  s_407f7069672e09::t_293daa4095239c 107,142,290
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "98e8def3c0b2f11f576336a2894eaed933213c48",
+  "prompts": {},
+  "sessions": {
+    "s_407f7069672e09": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f193fbce-da21-4278-bb83-9d8fd070f102",
+        "model": "claude-fable-5-1"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
